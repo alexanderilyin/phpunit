@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vcs-root xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" uuid="e948d562-d6dc-45cd-a475-91e37e565beb" type="jetbrains.git" xsi:noNamespaceSchemaLocation="http://www.jetbrains.com/teamcity/schemas/9.0/project-config.xsd">
+  <name>https://github.com/alexanderilyin/phpunit.git#refs/heads/master</name>
+  <param name="agentCleanFilesPolicy" value="ALL_UNTRACKED" />
+  <param name="agentCleanPolicy" value="ON_BRANCH_CHANGE" />
+  <param name="authMethod" value="PASSWORD" />
+  <param name="ignoreKnownHosts" value="true" />
+  <param name="secure:password" value="zxx3d193d83c1c34d8f775d03cbe80d301b" />
+  <param name="submoduleCheckout" value="CHECKOUT" />
+  <param name="teamcity:branchSpec" value="*" />
+  <param name="url" value="https://github.com/alexanderilyin/phpunit.git" />
+  <param name="useAlternates" value="true" />
+  <param name="username" value="alexanderilyin" />
+  <param name="usernameStyle" value="USERID" />
+</vcs-root>
+
