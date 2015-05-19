@@ -18,6 +18,7 @@
       <runner id="RUNNER_2" name="" type="simpleRunner">
         <parameters>
           <param name="script.content"><![CDATA[#!/bin/bash -x
+ps auxf
 docker images
 docker ps]]></param>
           <param name="teamcity.step.mode" value="default" />
